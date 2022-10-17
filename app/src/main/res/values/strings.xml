@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bad Luck Cookie</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Bad Luck Cookie</string>
+    <string name="second_fragment_label">Bad Luck Cookie</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Bad Luck Cookie</string>
+    <string name="hello_second_fragment">Bad Luck Cookie</string>
+    <!--NUESTOS STRINGS-->
+    <string name="fab_description">A fab icon with no use for now</string>
+    <string name="frase_mala_1">Vas a tener muy mala suerte!</string>
+    <string name="sample_text">Sample text!</string>
+
+</resources>
