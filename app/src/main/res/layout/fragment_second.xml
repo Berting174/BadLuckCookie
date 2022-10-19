@@ -3,6 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:background="@color/soft_yellow"
     android:layout_height="match_parent"
     tools:context=".SecondFragment">
 
@@ -10,7 +11,7 @@
         android:id="@+id/tv_cookie_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="sans-serif-light"
+        android:fontFamily="@font/kalamregular"
         android:text="@string/sample_text"
         android:textAlignment="center"
         android:textSize="50sp"
@@ -24,6 +25,8 @@
         android:id="@+id/button_second"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@color/soft_pink"
+        android:fontFamily="@font/kalambold"
         android:text="@string/previous"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
