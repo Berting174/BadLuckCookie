@@ -29,6 +29,7 @@
         android:layout_gravity="bottom|end"
         android:layout_marginEnd="@dimen/fab_margin"
         android:layout_marginBottom="16dp"
+        android:backgroundTint="@color/soft_pink"
         android:contentDescription="@string/fab_description"
         app:srcCompat="@android:drawable/ic_dialog_email" />
 
