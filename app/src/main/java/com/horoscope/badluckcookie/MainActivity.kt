@@ -1,5 +1,6 @@
 package com.horoscope.badluckcookie
 
+import android.content.Intent
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
 import androidx.appcompat.app.AppCompatActivity
@@ -25,6 +26,8 @@ class MainActivity : AppCompatActivity() {
 
         setSupportActionBar(binding.toolbar)
 
+        initListeners()
+
         val navController = findNavController(R.id.nav_host_fragment_content_main)
         appBarConfiguration = AppBarConfiguration(navController.graph)
         setupActionBarWithNavController(navController, appBarConfiguration)
@@ -33,6 +36,16 @@ class MainActivity : AppCompatActivity() {
             Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                 .setAction("Action", null).show()
         }
+    }
+
+    private fun initListeners() {
+
+
+        val bannerIntent = Intent( this, BannerActivity::class.java)
+        binding.btnBanner.setOnClickListener{ startActivity(bannerIntent)
+        }
+
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {

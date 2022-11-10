@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bad Luck Cookie</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Bad Luck Cookie</string>
+    <string name="second_fragment_label">Bad Luck Cookie</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Bad Luck Cookie</string>
+    <string name="hello_second_fragment">Bad Luck Cookie</string>
+    <!--NUESTOS STRINGS-->
+    <string-array name="malas_frases">
+        <item>読まない人は、読めない人より有利ではありません。</item>
+        <item>最初に成功しなかった場合は、試みたすべての証拠を破棄します</item>
+        <item>幸せ？続かない！</item>
+        <item>脳を科学に寄付するのは良いことですが、死ぬまで待つべきではありませんでしたか?</item>
+        <item>少なくとも私はあなたを信じています。私、一枚の紙/ピクセル</item>
+        <item>自由に一日を無駄に過ごしてください。あなたの場合は違いはありません</item>
+        <item>人生があなたを打ちのめすとき、ただじっとしていなさい</item>
+        <item>あなたの初恋の人はあなたのことを忘れていません。</item>
+        <item>あなたの結婚式では、誰もが黒い服を着ます</item>
+        <item>たぶん、別の治療セッションの時間ですか？</item>
+        <item>ここでは、宇宙服を着たオナラと同じように歓迎します</item>
+        <item>あなたはカリスマ性がなく、無礼で魅力的ではありません。あなたは本当に良いニュースを期待していましたか？</item>
+        <item>悲しいことに、前進と下り坂の両方に進む可能性があります</item>
+        <item>あなたの運は尽きたようです - そしてあなたから遠く離れています</item>
+        <item>あなたの願いはクリスマスにも叶わない</item>
+        <item>今日、あなたは奈落の底にいます。明日、あなたは大きな一歩を踏み出すでしょう</item>
+        <item>部外者として、人類についてどう思いますか?</item>
+        <item>良くなる、何か、多分</item>
+        <item>これらの予言を信じるのは馬鹿だけだ</item>
+        <item>あなたをより高く持ち上げようとしている人々を信頼してください - それはあなたを破滅させるかもしれません</item>
+        <item>エラー 404: フォーチュンが見つかりません</item>
+        <item>あなたは今毒を食べました</item>
+        <item>あなたのペットはあなたを食べようとしています</item>
+        <item>不運と不幸はあなたの哀れな魂に永遠に蔓延するでしょう</item>
+        <item>悪い日がありますか？別の Cookie をもう一度開いてみてください</item>
+        <item>ルーターをハッキングしました</item>
+        <item>あなたは一人で死ぬでしょう</item>
+        <item>黒髪の女性がもうすぐあなたにプレゼントをくれます</item>
+        <item>最大の危険はあなたの愚かさかもしれません</item>
+
+
+    </string-array>
+
+    <string-array name="buenas_frases">
+        <item>早い鳥はワームを手に入れますが、2 番目のマウスはチーズを手に入れます。</item>
+        <item>あなたの人生のどの時期にあなたのプライムが発生するかを認識するように注意してください.</item>
+        <item>栄光への道は困難ですが、充実したものになるでしょう。</item>
+        <item>勇気は単なる美徳の 1 つではなく、試練のときのすべての美徳の形です。</item>
+        <item>忍耐は現時点であなたの路地です。心配しないで！</item>
+        <item>進んで心に不可能なことはありません。</item>
+        <item>お金のことは心配しないでください。人生で最高のものは無料です。</item>
+        <item>幸福を追求しないでください - 創造してください。</item>
+        <item>勇気とは恐れがないことではありません。それを征服することです。</item>
+        <item>改善の可能性をほめ、夢は叶う</item>
+        <item>目標を称賛する - あなたは正しい方向に向かっています</item>
+        <item>改善の可能性に焦点を当てます - それは最も満足のいく方法で報われることができます</item>
+        <item>あなたを幸せにするものは何でも褒めてください - 良いことが起こります</item>
+        <item>愛する人生を生きるまで、人生を愛することはできません。</item>
+        <item>実を結ぶ人は木に登らなければなりません。</item>
+        <item>私たちのすべての人材の中で最も貴重なのは、向上心です。</item>
+        <item>私たちは常に古い思い出と若い希望を持たなければなりません。</item>
+        <item>読まない人は、読めない人より有利ではありません。</item>
+
+
+    </string-array>
+    <string name="fab_description">A fab icon with no use for now</string>
+    <string name="frase_mala_1">Vas a tener muy mala suerte!</string>
+    <string name="sample_text">Sample text!</string>
+    <string name="title_activity_intersticial">IntersticialActivity</string>
+
+
+
+
+
+
+</resources>

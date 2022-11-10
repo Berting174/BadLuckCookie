@@ -14,23 +14,22 @@
         <item>I cannot help you, for I am just a cookie</item>
         <item>If at first you dont succeed, destroy all evidence that you tried</item>
         <item>Happy? It wont last!</item>
-        <item>Its good to donate your brain to science but shouldnt you have waited till you died?</item>
-        <item>At least I believe in you. Me, a piece of paper/pixels</item>
+        <item>Its good to donate your brain to science but shouldn\'t you have waited till you died?</item>
+        <item>At least I believe in you. Me, a piece of pixels</item>
         <item>Feel free to waste the day away. It makes no difference in your case</item>
         <item>When life knocks you down, just stay down</item>
-        <item>Your first love hasnt forgotten you - still wondering how one could be so stupid!?</item>
+        <item>Your first love hasn\'t forgotten you - still wondering how one could be so stupid!?</item>
         <item>At your wedding, everyone will be dressed in black</item>
         <item>Maybe its time for another therapy session?!</item>
         <item>You are as welcome here as a fart in a spacesuit</item>
         <item>You are uncharismatic, impolite and unattractive. Were you really expecting good news?</item>
         <item>Sadly, its possible to be going both forwards and downhill</item>
         <item>Looks like your luck is running out - and far, far away from you</item>
-        <item>Your wishes dont even come true at Christmas</item>
+        <item>Your wishes don\'t even come true at Christmas</item>
         <item>Today you are on the edge of the abyss. Tomorrow you will have taken a big step forward</item>
         <item>As an outsider, what do you think of the human race?</item>
         <item>Things will get better, something, maybe</item>
         <item>Only idiots believe these prophecies</item>
-        <item>Praise the goal and a nightmare you have will come true</item>
         <item>Put trust in people who are going to lift you higher - it may doom you</item>
         <item>Error 404: Fortune not found</item>
         <item>You have just eaten poison</item>
@@ -40,9 +39,7 @@
         <item>We have just hacked your router</item>
         <item>You will die alone</item>
         <item>A dark haired woman will soon be giving you a gift</item>
-        <item>the greatest danger could be your stupidity</item>
-
-
+        <item>The greatest danger could be your stupidity</item>
 
 
     </string-array>
@@ -68,10 +65,10 @@
         <item>A person who won’t read has no advantage over a person who can’t read.</item>
 
 
-
     </string-array>
     <string name="fab_description">A fab icon with no use for now</string>
     <string name="frase_mala_1">Vas a tener muy mala suerte!</string>
     <string name="sample_text">Sample text!</string>
+    <string name="title_activity_intersticial">IntersticialActivity</string>
 
 </resources>

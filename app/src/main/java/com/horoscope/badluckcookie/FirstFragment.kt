@@ -9,6 +9,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
 import com.horoscope.badluckcookie.databinding.FragmentFirstBinding
+import java.lang.Math.random
 import kotlin.random.Random
 
 /**
@@ -26,7 +27,6 @@ class FirstFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-
         _binding = FragmentFirstBinding.inflate(inflater, container, false)
         return binding.root
 
@@ -34,30 +34,36 @@ class FirstFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-
         binding.ibBadLuckCookie.setOnClickListener {
-            //TODO: PONER RANDOM
-            val fraseMalaSuerte1 = resources.getStringArray(R.array.malas_frases)
-            val randomRarity = fraseMalaSuerte1.random()
 
             sonidoGalleta()
 
-            (activity as MainActivity).setFrase(randomRarity)
+            (activity as MainActivity).setFrase(getFraseRandom(R.array.malas_frases))
 
             findNavController().navigate(R.id.action_FirstFragment_to_SecondFragment)
         }
 
         binding.ibGoodLuckCookie.setOnClickListener {
-            //TODO: PONER RANDOM
-            val fraseMalaSuerte1 = resources.getStringArray(R.array.buenas_frases)
-            val randomRarity = fraseMalaSuerte1.random()
 
             sonidoGalleta()
 
-            (activity as MainActivity).setFrase(randomRarity)
+            (activity as MainActivity).setFrase(getFraseRandom(R.array.buenas_frases))
 
             findNavController().navigate(R.id.action_FirstFragment_to_SecondFragment)
         }
+    }
+
+    private fun getFraseRandom(id:Int): String {
+
+        var randomInt:Int
+        randomInt = getRandomPosition(resources.getStringArray(id).size)
+
+        return resources.getStringArray(id)[randomInt]
+    }
+
+    private fun getRandomPosition(max :Int): Int{
+        val random = java.util.Random()
+        return random.nextInt(max)
     }
 
     private fun sonidoGalleta(){

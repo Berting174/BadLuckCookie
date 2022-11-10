@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bad Luck Cookie</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Bad Luck Cookie</string>
+    <string name="second_fragment_label">Bad Luck Cookie</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Bad Luck Cookie</string>
+    <string name="hello_second_fragment">Bad Luck Cookie</string>
+    <!--NUESTOS STRINGS-->
+    <string-array name="malas_frases">
+        <item>No puedo ayudarte, solo soy una galleta.</item>
+        <item>Si al principio no tiene éxito, destruya todas las pruebas de que lo intentó.</item>
+        <item>¿Contento? ¡No durará!</item>
+        <item>Es bueno donar tu cerebro a la ciencia, pero ¿no deberías haber esperado hasta morir?</item>
+        <item>Al menos yo creo en ti. Yo, un pedazo de píxeles</item>
+        <item>Siéntete libre de desperdiciar el día. No hace ninguna diferencia en tu caso</item>
+        <item>Cuando la vida te derribe, quédate ahi</item>
+        <item>Tu primer amor no te ha olvidado. ¿Todavía te preguntas cómo se puede ser tan estúpido?</item>
+        <item>En tu boda todos irán vestidos de negro</item>
+        <item>¿Quizás es hora de otra sesión de terapia?</item>
+        <item>Eres tan bienvenido aquí como un pedo en un traje espacial.</item>
+        <item>Eres poco carismático, descortés y poco atractivo. ¿De verdad esperabas buenas noticias?</item>
+        <item>Lamentablemente, es posible ir tanto hacia adelante como hacia abajo.</item>
+        <item>Parece que tu suerte se está acabando, y muy, muy lejos de ti.</item>
+        <item>Tus deseos ni siquiera se hacen realidad en Navidad.</item>
+        <item>Hoy estás al borde del abismo. Mañana habrás dado un gran paso adelante</item>
+        <item>Como alienígena, ¿qué piensas de la raza humana?</item>
+        <item>Las cosas mejorarán, algo, tal vez</item>
+        <item>Solo los idiotas creen en estas profecías</item>
+        <item>Confíe en las personas que lo elevarán más alto, pueden condenarlo</item>
+        <item>Error 404: Fortuna no encontrada</item>
+        <item>Acabas de comer veneno</item>
+        <item>Tu mascota planea comerte</item>
+        <item>La mala suerte y la desgracia infestarán tu patética alma por toda la eternidad.</item>
+        <item>¿Tienes un mal día? Intente abrir otra cookie de nuevo</item>
+        <item>Acabamos de piratear su router</item>
+        <item>Morirás solo</item>
+        <item>Una mujer de cabello oscuro pronto te dará un regalo.</item>
+        <item>El mayor peligro puede ser tu estupidez</item>
+
+
+    </string-array>
+
+    <string-array name="buenas_frases">
+        <item>El pájaro madrugador se lleva el gusano, pero el segundo ratón se lleva el queso.</item>
+        <item>Esté alerta para reconocer su mejor momento en cualquier momento de su vida que pueda ocurrir.</item>
+        <item>Tu camino a la gloria será rocoso, pero gratificante.</item>
+        <item>El valor no es simplemente una de las virtudes, sino la forma de cada virtud en el punto de prueba.</item>
+        <item>La paciencia es tu callejón en este momento. ¡No te preocupes!</item>
+        <item>Nada es imposible para un corazón dispuesto.</item>
+        <item>No te preocupes por el dinero. Las mejores cosas de la vida son gratis.</item>
+        <item>No persigas la felicidad, créala.</item>
+        <item>El valor no es la ausencia de miedo; es la conquista de ella.</item>
+        <item>Elogie las posibilidades de mejora y un sueño que tenga se hará realidad.</item>
+        <item>Elogie el objetivo: se dirige en la dirección correcta</item>
+        <item>Concéntrese en las posibilidades de mejora: puede dar sus frutos de la manera más satisfactoria</item>
+        <item>Elogie lo que sea que lo haga feliz, sucederán cosas buenas</item>
+        <item>No puedes amar la vida hasta que vivas la vida que amas.</item>
+        <item>El que quiera tener el fruto debe trepar al árbol.</item>
+        <item>De todos nuestros recursos humanos, el más preciado es el afán de superación.</item>
+        <item>Siempre debemos tener viejos recuerdos y jóvenes esperanzas.</item>
+        <item>Una persona que no quiere leer no tiene ninguna ventaja sobre una persona que no sabe leer.</item>
+
+
+    </string-array>
+    <string name="fab_description">A fab icon with no use for now</string>
+    <string name="frase_mala_1">Vas a tener muy mala suerte!</string>
+    <string name="sample_text">Sample text!</string>
+    <string name="title_activity_intersticial">IntersticialActivity</string>
+
+</resources>

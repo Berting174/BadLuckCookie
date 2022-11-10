@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bad Luck Cookie</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Bad Luck Cookie</string>
+    <string name="second_fragment_label">Bad Luck Cookie</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Bad Luck Cookie</string>
+    <string name="hello_second_fragment">Bad Luck Cookie</string>
+    <!--NUESTOS STRINGS-->
+    <string-array name="malas_frases">
+        <item>읽지 않는 사람은 읽지 못하는 사람보다 유리하지 않습니다.</item>
+        <item>처음에 성공하지 못하면 시도한 모든 증거를 파괴하십시오.</item>
+        <item>행복하다? 그것은 지속되지 않습니다!</item>
+        <item>당신의 두뇌를 과학에 기증하는 것은 좋은 일이지만 죽을 때까지 기다려야 하지 않습니까?</item>
+        <item>적어도 나는 당신을 믿습니다. 나, 한 장의 종이/픽셀</item>
+        <item>하루를 낭비하지 마십시오. 그것은 당신의 경우에 차이가 없습니다</item>
+        <item>삶이 당신을 쓰러뜨릴 때, 그냥 가만히 있어</item>
+        <item>당신의 첫사랑은 당신을 잊은 적이 없습니다 - 아직도 그 사람이 어떻게 그렇게 멍청할 수 있는지 궁금합니다!?</item>
+        <item>당신의 결혼식에서 모두가 검은 옷을 입을 것입니다.</item>
+        <item>다른 치료 세션을 위한 시간이 아닐까요?!</item>
+        <item>당신은 우주복을 입은 방귀처럼 여기에서 환영합니다</item>
+        <item>당신은 카리스마가 없고 무례하고 매력적이지 않습니다. 정말 좋은 소식을 기대하셨나요?</item>
+        <item>슬프게도 전진과 하강이 모두 가능합니다.</item>
+        <item>당신의 운이 바닥난 것 같습니다 - 그리고 당신에게서 멀리, 멀리</item>
+        <item>당신의 소원은 크리스마스에도 이루어지지 않습니다</item>
+        <item>오늘 당신은 심연의 가장자리에 있습니다. 내일 당신은 큰 발걸음을 내디뎠을 것입니다.</item>
+        <item>아웃사이더로서 인류에 대해 어떻게 생각하십니까?</item>
+        <item>상황이 나아질거야, 뭔가, 아마도</item>
+        <item>바보들만이 이 예언을 믿는다</item>
+        <item>당신을 더 높이 올려줄 사람들을 믿으세요 - 그것은 당신을 파멸시킬 수 있습니다</item>
+        <item>오류 404: 행운을 찾을 수 없습니다</item>
+        <item>당신은 방금 독을 먹었습니다</item>
+        <item>당신의 애완 동물이 당신을 먹을 계획입니다</item>
+        <item>불운과 불행은 영원히 당신의 한심한 영혼을 감염시킬 것입니다</item>
+        <item>나쁜 하루를 보내고 있습니까? 다른 쿠키를 다시 열어보십시오.</item>
+        <item>라우터를 해킹했습니다.</item>
+        <item>당신은 혼자 죽을 것입니다</item>
+        <item>검은 머리 여자가 곧 당신에게 선물을 줄 것입니다</item>
+        <item>가장 큰 위험은 당신의 어리석음일 수 있습니다</item>
+
+
+    </string-array>
+
+    <string-array name="buenas_frases">
+        <item>일찍 일어나는 새는 벌레를 얻지만 두 번째 쥐는 치즈를 얻습니다.</item>
+        <item>인생의 어느 시점에서든 당신의 전성기를 알아차릴 수 있도록 경계하십시오.</item>
+        <item>영광을 향한 당신의 길은 험난하지만 충만할 것입니다.</item>
+        <item>용기는 단순히 미덕 중 하나가 아니라 시험 지점에서 모든 미덕의 형태입니다.</item>
+        <item>인내는 현재 당신의 골목입니다. 괜찮아요!</item>
+        <item>간절히 원하는 마음에는 불가능이란 없다.</item>
+        <item>돈에 대해 걱정하지 마십시오. 인생에서 가장 좋은 것은 무료입니다.</item>
+        <item>행복을 추구하지 말고 창조하십시오.</item>
+        <item>용기는 두려움이 없는 것이 아닙니다. 그것을 정복하는 것입니다.</item>
+        <item>발전 가능성을 칭찬하고 당신의 꿈이 이루어질 것입니다</item>
+        <item>목표를 찬양하라 - 당신은 올바른 방향으로 가고 있습니다</item>
+        <item>개선 가능성에 집중 - 가장 만족스러운 방식으로 성과를 거둘 수 있습니다.</item>
+        <item>당신을 행복하게 만드는 모든 것을 칭찬하십시오 - 좋은 일이 일어날 것입니다</item>
+        <item>당신이 사랑하는 삶을 살 때까지 당신은 삶을 사랑할 수 없습니다.</item>
+        <item>열매를 맺으려는 사람은 나무에 올라가야 합니다.</item>
+        <item>우리의 모든 인적 자원 중 가장 소중한 것은 개선하려는 욕구입니다.</item>
+        <item>우리는 항상 오래된 추억과 젊은 희망을 가져야 합니다.</item>
+        <item>읽지 않는 사람은 읽지 못하는 사람보다 유리하지 않습니다.</item>
+
+
+    </string-array>
+    <string name="fab_description">A fab icon with no use for now</string>
+    <string name="frase_mala_1">Vas a tener muy mala suerte!</string>
+    <string name="sample_text">Sample text!</string>
+    <string name="title_activity_intersticial">IntersticialActivity</string>
+
+
+
+
+</resources>
